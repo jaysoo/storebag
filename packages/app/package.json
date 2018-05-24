@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "callbag-ext": "1.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "storebag": "1.0.0"
+  }
+}

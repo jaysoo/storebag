@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "workspaces": ["packages/*"],
+  "author": "Jack Hsu <jack.hsu@gmail.com> (http://jaysoo.ca/)",
+  "license": "ISC"
+}

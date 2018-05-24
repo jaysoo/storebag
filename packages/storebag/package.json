@@ -1,0 +1,9 @@
+{
+  "name": "storebag",
+  "version": "1.0.0",
+  "main": "readme.js",
+  "license": "MIT",
+  "dependencies": {
+    "callbag-ext": "1.0.0"
+  }
+}
