@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rollup -c -f cjs > readme.cjs.js",
-    "test": "jest --watch"
+    "test": "jest"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
